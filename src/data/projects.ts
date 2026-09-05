@@ -27,7 +27,7 @@ export const projects: Project[] = [
     "Tailwind CSS",
   ],
   organization: "",
-  link: "https://github.com/jyotiyy/ShortifyL",
+  link: "https://github.com/jyotiyy/Shortify",
 },
   {
   title: "Laparoscopic Surgical Research",
