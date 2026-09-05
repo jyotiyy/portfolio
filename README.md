@@ -1,6 +1,6 @@
 # Jyoti Yadav — Portfolio
 
-Welcome to my personal portfolio website, where I showcase my projects, research, technical work, and experience.
+Introducing to y’all — my portfolio website! ;)
 
 🌐 **Portfolio:** https://jyotiyy.github.io/portfolio/
 
